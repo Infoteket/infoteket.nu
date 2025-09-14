@@ -1,14 +1,12 @@
 ---
-layout: home
+layout: page
 title: Infoteket
+permalink: /
 ---
 
-# Infoteket
+### Contact
 
-
-## Contact
-
-**[info@infoteket.nu](mailto:info@infoteket.nu)**.
+[info@infoteket.nu](mailto:info@infoteket.nu)
 
 ---
 
