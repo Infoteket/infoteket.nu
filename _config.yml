@@ -1,0 +1,15 @@
+title: Infoteket
+email: info@infoteket.nu
+description: >-
+  Infoteket
+baseurl: ""
+url: "https://infoteket.nu"
+theme: minima
+
+# Build settings
+markdown: kramdown
+
+# Exclude unnecessary files from the build
+exclude:
+  - README.md
+  - .github/
