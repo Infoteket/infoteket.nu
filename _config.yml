@@ -4,7 +4,7 @@ description: >-
   Infoteket
 baseurl: ""
 url: "https://infoteket.nu"
-theme: minima
+theme: null
 
 # Build settings
 markdown: kramdown
