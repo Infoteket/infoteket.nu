@@ -5,7 +5,7 @@ permalink: /
 
 # 👋 Welcome!
 
-🚀 Building amazing things, one commit at a time.
+Infoteket Stockholm AB
 
 🔗 [github.com/infoteket](https://github.com/infoteket)
 
